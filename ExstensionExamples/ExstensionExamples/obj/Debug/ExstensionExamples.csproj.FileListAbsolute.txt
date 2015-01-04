@@ -1,0 +1,12 @@
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.exe.config
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.pdb
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.exe.config
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.exe
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.pdb
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\obj\Debug\ExstensionExamples.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.exe
+C:\Users\scottyboi\Documents\GitHub\ExstesionMethod\ExstensionExamples\ExstensionExamples\bin\Debug\ExstensionExamples.pdb
